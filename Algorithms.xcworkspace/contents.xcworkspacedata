@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Algorithms/Algorithms.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Playgrounds">
+      <FileRef
+         location = "group:SelectionSort.playground">
+      </FileRef>
+      <FileRef
+         location = "group:InsertionSort.playground">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/lauraskelton/Dev/Algorithms/Shellsort.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Shuffle.playground">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/lauraskelton/Dev/Algorithms/Mergesort.playground">
+      </FileRef>
+      <FileRef
+         location = "group:BottomUpMergesort.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Quicksort.playground">
+      </FileRef>
+      <FileRef
+         location = "group:QuickSelect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:DepthFirstSearch.playground">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/lauraskelton/Dev/Algorithms/BreadthFirstSearch.playground">
+      </FileRef>
+      <FileRef
+         location = "group:StringsPlayground.playground">
+      </FileRef>
+   </Group>
+</Workspace>
